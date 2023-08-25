@@ -26,7 +26,8 @@
   "scripts": {
     "lint": "eslint src/",
     "start": "webpack serve --mode development --open",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@babel/core": "7.21.4",
