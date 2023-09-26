@@ -4,11 +4,11 @@ by: Egor Pestov <egorpestov2012@yandex.ru>
 
 ---
 
-Stack: HTML, CSS, JS, Babel, Webpack
+<b>Stack:</b> HTML, CSS, JS, Babel, Webpack
 
 ---
 
-BigTrip: a travel planning application. The app serves as an assistant for planning the logic of your trip, whether it's a trip from one city to another, or a flight from one country to another. The laconic interface combined with extensive functionality helps the user to easily plan the sequence of their trip and calculate the total cost, taking into account even small expenses.
+<b>BigTrip:</b> a travel planning application. The app serves as an assistant for planning the logic of your trip, whether it's a trip from one city to another, or a flight from one country to another. The laconic interface combined with extensive functionality helps the user to easily plan the sequence of their trip and calculate the total cost, taking into account even small expenses.
 
 The main functionality of the application includes editing and managing route points, applying filters, sorting, and interacting with the server.
 
